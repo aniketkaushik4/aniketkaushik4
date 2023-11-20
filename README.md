@@ -87,7 +87,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/><br/><br/><br/>
-  <a href="https://github.com/aniketkaushik4/github-readme-activity-graph"><img alt="Aadarsh's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=aniketkaushik4&theme=react-dark" /><a>
+  <a href="https://github.com/aniketkaushik4/github-readme-activity-graph"><img alt="Aniket's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=aniketkaushik4&theme=react-dark" /><a>
 
 </p>
 
