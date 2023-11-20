@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<img  align="right" height="350px" alt="GIF" src="/home/aryan/Desktop/Aniket/aadarsh231099/lamp shift (1).gif" />
+<img  align="right" height="350px" alt="GIF" src="lamp.gif" />
  
 <p>
   <h1 align="center"><b>🙋‍♂️ About Me 🙋‍♂️</b></h1>
