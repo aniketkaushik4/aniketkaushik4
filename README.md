@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<img align="right" height="250px" alt="GIF" src="lamp.gif" style="height: 250px; padding-top: 65px;">
+<img align="right" height="220px" alt="GIF" src="lamp.gif" style="padding-top: 60px;">
 
  
 <p>
