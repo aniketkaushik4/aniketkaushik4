@@ -3,8 +3,7 @@
 <br/>
 <br/>
 
-<img align="right" height="220px" alt="GIF" src="lamp.gif" style="max-width: 100%; display: inline-block; padding-top: 60px;"/>
-
+ <img align="right" height="350px" alt="GIF" src="lamp.gif"/>
  
 <p>
   <h1 align="center"><b>🙋‍♂️ About Me 🙋‍♂️</b></h1>
