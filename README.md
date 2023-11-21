@@ -33,7 +33,7 @@
 <a href = "https://www.linkedin.com/in/aniket-kaushik-9336011ab" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank"/></a>
 <a href = "https://wa.me/917800821431"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"  target="_blank"/></a>
 <a href = "https://github.com/aniketkaushik4" ><img src="https://img.icons8.com/fluent/48/000000/github.png" target="_blank"/></a>
-
+<a href = "mailto: aniketkaushik463@gmail.com" ><img src="https://img.icons8.com/fluent/48/000000/gmail.png" target="_blank"/></a>
 <br/><br/>
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aniketkaushik4.aniketkaushik4" target="_blank" alt="GitHub Profile Visitors" title="GitHub Profile Visitors" />
